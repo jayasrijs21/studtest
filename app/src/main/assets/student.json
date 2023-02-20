@@ -1,0 +1,26 @@
+/*{
+  "students" : [
+    {
+      "name" : "ram",
+      "house" : "yellow",
+      "extra" : ["rsp" , "jrc" , "inter"]
+    }
+
+
+  ]
+}*/
+{
+  "students" : [
+    {
+      "name": "keerthana",
+      "class": 10,
+      "subjects" : {
+        "maths" : 80,
+        "science" : 95,
+        "language" : 90
+      },
+      "house": "blue",
+      "extras" : ["groupA" , "guides" , "rsp"]
+    }
+    ]
+}
